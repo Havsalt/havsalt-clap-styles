@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Styling for the `clap` parser, used across all `havsalt` projects to ensure consistent styling in command-line interfaces"
 homepage = "https://github.com/havsalt/havsalt-clap-styling"
+authors = ["Havsalt <77575424+Havsalt@users.noreply.github.com>"]
 
 [dependencies]
 anstyle = "1.0"
